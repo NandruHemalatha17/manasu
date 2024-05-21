@@ -1,0 +1,25 @@
+question_book=[
+    {"text": "which type of programming does python supports?","answer":"D"},
+    {"text":"which of the python extension?","answer":"B"},
+    {"text":"all keywords in python are in ?","answer":"D"},
+    {"text":"which of the following used to define a block of code in python language?","answer":"A"},
+    {"text":"python supports the creation of anonymous function at runtime,using a construct called?","answer":"C"},
+    {"text":"which of the following is the truncation division operator in python","answer":"B"},
+    {"text":"which of the following is use of id()function in python","answer":"B"},
+    {"text":"which of the following is not a core data type in python programming ?","answer":"C"},
+    {"text":"Is python is case sensitive when dealing with identifiers?","answer":"B"},
+    {"text":"which of the following is not a keyword in python language?","answer":"B"},
+]
+
+options=[["A.object oriented programming","B. structures programming","C. functional programming","D.all the mentioned"],
+         ["A.Python","B.Py","C.Pl","D.p"],
+         ["A.capitailized","B.lower case","C.UPPER CASE","D.none of the mentioned"],
+         ["A.indentation","B.key","C.Brackets","D.All of the above"],
+         ["A.pi","B.anonymous","C.lambda","D.none of the mentioned"],
+         ["A.|","B.//","C./","D.%"],
+         ["A.every object doesn't have a unique id","B.id returns the identity of the object","C.All of the above","D.None of the above"],
+         ["A.tuple","B.list","C.class","D.dictionary"],
+         ["A.no","B.yes","C.machine dependent","D.none of the mentioned"],
+         ["A.pass", "B.eval", "C.assert", "D.nonlocal"],
+]
+score=0
